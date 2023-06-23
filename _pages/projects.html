@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+{% include base_path %}
+Here are some interesting things I've done in the past, in reverse chronological order.
+
+{% for post in site.projects %}
+  {% include archive-single.html %}
+{% endfor %}
+
