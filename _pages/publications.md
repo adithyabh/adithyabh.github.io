@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Please see my [Resume](/cv) for a more up-to-date list.
+Please see my [resume](/cv) for a more up-to-date list.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -14,5 +14,5 @@ Please see my [Resume](/cv) for a more up-to-date list.
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-aurl.html %}
 {% endfor %}

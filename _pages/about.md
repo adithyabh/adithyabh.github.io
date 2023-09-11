@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Adithya Bhaskar, an incoming Ph.D. student at Princeton University, advised by [Prof. Danqi Chen](https://www.cs.princeton.edu/~danqic/). Prior to joining Princeton, I completed my B.Tech. in Computer Science from IIT Bombay, where I completed my Bachelor's Thesis under the supervision of [Prof. Sunita Sarawagi](https://www.cse.iitb.ac.in/~sunita/). I am fortunate to have previously interned under [Prof. Greg Durrett](https://www.cs.utexas.edu/~gdurrett/) at UT Austin, where I was first exposed to Large Language Models like GPT-3.5. Prior to that, I intered at Uppsala University under [Prof. Parosh Abdulla](https://user.it.uu.se/~parosh/).  
+Hello! I am Adithya Bhaskar, an first-year Ph.D. student at Princeton University, advised by [Prof. Danqi Chen](https://www.cs.princeton.edu/~danqic/). Prior to joining Princeton, I completed my B.Tech. in Computer Science from IIT Bombay, where I completed my Bachelor's Thesis under the supervision of [Prof. Sunita Sarawagi](https://www.cse.iitb.ac.in/~sunita/). I am fortunate to have previously interned under [Prof. Greg Durrett](https://www.cs.utexas.edu/~gdurrett/) at UT Austin, where I was first exposed to Large Language Models like GPT-3.5. Prior to that, I intered at Uppsala University under [Prof. Parosh Abdulla](https://user.it.uu.se/~parosh/).  
 
 Research Interests
 ======
@@ -23,3 +23,9 @@ Second, as LMs become more commonplace, their potential for both benefit and har
 More generally, NLP (research) is fascinating in its own right. Many of the current challenges (think ChatGPT hallucinations, lack of logical reasoning, and so on) are daunting, but by the same coin quite thrilling. I believe that going forward, principled approaches that generalize well are likely to be the ones that power through them.
 
 I am excited to see what comes next.
+
+<h3> Updates </h3>
+- <small> **[08/23]** Joined Princeton University!</small>
+- <small> **[08/23]** Graduated from IIT Bombay with Honors.</small>
+- <small> **[08/23]** Happy to be awarded the *Thomas A. Dooie Class of 1974 Research Award* for my Bachelor's Thesis!</small>
+- <small> **[05/22]** Excited to intern with Prof. Greg Durrett at UT Austin over the summer!</small>
