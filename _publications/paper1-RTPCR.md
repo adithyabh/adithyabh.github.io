@@ -1,5 +1,6 @@
 ---
 title: "Performance Bounds for LASSO under Multiplicative Noise: Applications to Pooled RT-PCR Testing"
+authors: "Richeek Das, Aaron Jerry Ninan, **Adithya Bhaskar** and Ajit Rajwade"
 collection: publications
 permalink: https://arxiv.org/pdf/2305.17429.pdf
 info: "[[paper]](https://arxiv.org/pdf/2305.17429.pdf)"

@@ -1,5 +1,6 @@
 ---
 title: "Prompted Opinion Summarization with GPT-3.5"
+authors: "**Adithya Bhaskar**, Alex Fabbri and Greg Durrett"
 collection: publications
 permalink: https://aclanthology.org/2023.findings-acl.591.pdf
 info: "[[paper]](https://aclanthology.org/2023.findings-acl.591.pdf) [[code]](https://github.com/testzer0/ZS-Summ-GPT3/)"
