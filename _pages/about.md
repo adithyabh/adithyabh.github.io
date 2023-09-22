@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Adithya Bhaskar, an first-year Ph.D. student at Princeton University, advised by [Prof. Danqi Chen](https://www.cs.princeton.edu/~danqic/). Prior to joining Princeton, I completed my B.Tech. in Computer Science from IIT Bombay, where I completed my Bachelor's Thesis under the supervision of [Prof. Sunita Sarawagi](https://www.cse.iitb.ac.in/~sunita/). I am fortunate to have previously interned under [Prof. Greg Durrett](https://www.cs.utexas.edu/~gdurrett/) at UT Austin, where I was first exposed to Large Language Models like GPT-3.5. Prior to that, I intered at Uppsala University under [Prof. Parosh Abdulla](https://user.it.uu.se/~parosh/).  
+Hello! I am Adithya Bhaskar, a first-year Ph.D. student at Princeton University, advised by [Prof. Danqi Chen](https://www.cs.princeton.edu/~danqic/). Prior to joining Princeton, I completed my B.Tech. in Computer Science from IIT Bombay, where I completed my Bachelor's Thesis under the supervision of [Prof. Sunita Sarawagi](https://www.cse.iitb.ac.in/~sunita/). I am fortunate to have previously interned under [Prof. Greg Durrett](https://www.cs.utexas.edu/~gdurrett/) at UT Austin, where I was first exposed to Large Language Models like GPT-3.5. Prior to that, I intered at Uppsala University under [Prof. Parosh Abdulla](https://user.it.uu.se/~parosh/).  
 
 Research Interests
 ======
