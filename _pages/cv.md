@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "My Resume (Updated November 2023)"
+title: "My Resume (Updated June 2024)"
 permalink: /cv/
 author_profile: true
 redirect_from:
