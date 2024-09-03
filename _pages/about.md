@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Adithya Bhaskar, a first-year Ph.D. student at Princeton University, advised by [Prof. Danqi Chen](https://www.cs.princeton.edu/~danqic/). Prior to joining Princeton, I completed my B.Tech. in Computer Science from IIT Bombay, where I completed my Bachelor's Thesis under the supervision of [Prof. Sunita Sarawagi](https://www.cse.iitb.ac.in/~sunita/). I am fortunate to have previously interned under [Prof. Greg Durrett](https://www.cs.utexas.edu/~gdurrett/) at UT Austin, where I was first exposed to Large Language Models. Prior to that, I interned at Uppsala University under [Prof. Parosh Abdulla](https://user.it.uu.se/~parosh/).  
+Hello! I am Adithya Bhaskar, a second-year Ph.D. student at Princeton University, advised by [Prof. Danqi Chen](https://www.cs.princeton.edu/~danqic/). Prior to joining Princeton, I completed my B.Tech. in Computer Science from IIT Bombay, where I completed my Bachelor's Thesis under the supervision of [Prof. Sunita Sarawagi](https://www.cse.iitb.ac.in/~sunita/). I am fortunate to have previously interned under [Prof. Greg Durrett](https://www.cs.utexas.edu/~gdurrett/) at UT Austin, where I was first exposed to Large Language Models. Prior to that, I interned at Uppsala University under [Prof. Parosh Abdulla](https://user.it.uu.se/~parosh/).  
 
 Research Interests
 ======
@@ -25,7 +25,7 @@ More generally, NLP research is fascinating in its own right. Many of the curren
 I am excited to see what comes next.
 
 <h3> Updates </h3>
-- <small> **[06/24]** I will present my <a href="https://arxiv.org/abs/2403.03942">Heuristic Core</a> paper at ACL. See you there!</small>
+- <small> **[06/24]** I will present my <a href="https://arxiv.org/abs/2403.03942">Heuristic Core</a> paper at ACL (Oral, Main). See you there!</small>
 - <small> **[04/24]** Gave an invited talk at Amazon AWS (Responsible AI team). </small>
 - <small> **[04/24]** Named a Hisashi and Masae Kobayashi *67 Fellow. </small>
 - <small> **[08/23]** Joined Princeton University!</small>
