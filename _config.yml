@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Adithya Bhaskar"
 title_separator          : "-"
 name                     : &name "Adithya Bhaskar"
-description              : &description "First year Ph.D. student at Princeton University"
+description              : &description "Second year Ph.D. student at Princeton University"
 url                      : https://adithyabh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adithyabh/adithyabh.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Adithya Bhaskar"
   avatar           : "photo.jpeg"
-  bio              : "First year Ph.D. student at Princeton"
+  bio              : "Second year Ph.D. student at Princeton"
   location         : "Princeton, NJ"
   employer         : "Princeton University"
   pubmed           : 
