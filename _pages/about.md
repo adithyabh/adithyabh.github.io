@@ -25,6 +25,7 @@ More generally, NLP research is fascinating in its own right. Many of the curren
 I am excited to see what comes next.
 
 <h3> Updates </h3>
+- <small> **[09/24]** I will be at NeurIPS to present <a href="https://arxiv.org/abs/2406.16778">Edge Pruning</a> (spotlight)!</small>
 - <small> **[06/24]** I will present my <a href="https://arxiv.org/abs/2403.03942">Heuristic Core</a> paper at ACL (Oral, Main). See you there!</small>
 - <small> **[04/24]** Gave an invited talk at Amazon AWS (Responsible AI team). </small>
 - <small> **[04/24]** Named a Hisashi and Masae Kobayashi *67 Fellow. </small>
