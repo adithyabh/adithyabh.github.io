@@ -1,6 +1,6 @@
 import { type ReactNode } from 'react'
 import { type Metadata } from 'next'
-import Internal from '@paracosm-dev/internal'
+// import Internal from '@paracosm-dev/internal'  // Commented out to remove Paracosm branding
 import metadataProfile from '@/profile/metadata.json'
 import './globals.css'
 
@@ -14,7 +14,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body>
-        <Internal />
+        {/* <Internal /> */}  {/* Commented out to remove Paracosm branding */}
         {children}
       </body>
     </html>
