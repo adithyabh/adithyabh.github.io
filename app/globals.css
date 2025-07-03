@@ -1,0 +1,15 @@
+@import '../profile/fonts.css';
+@import 'tailwindcss';
+@import '../profile/theme.css';
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  a {
+    @apply text-accent hover:text-accent/80 underline decoration-accent/30 hover:decoration-accent transition-colors duration-200;
+  }
+}

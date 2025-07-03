@@ -1,0 +1,18 @@
+@theme static {
+    --color-background: #f5f5dc;
+    --color-foreground: #1a1a1a;
+    --color-primary: #000000;
+    --color-primary-foreground: #ffffff;
+    --color-secondary: #2c2c2c;
+    --color-secondary-foreground: #f5f5dc;
+    --color-muted: #e8e8e8;
+    --color-muted-foreground: #4a4a4a;
+    --color-card: #ffffff;
+    --color-card-foreground: #1a1a1a;
+    --color-accent: #8b0000;
+    --color-accent-foreground: #ffffff;
+    --color-destructive: #8b0000;
+    --color-success: #2d4a2d;
+    --color-border: #000000;
+    --color-ring: #000000;
+  }
