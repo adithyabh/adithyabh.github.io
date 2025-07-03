@@ -81,7 +81,7 @@ export default function About() {
             <h3 className="font-oswald text-2xl font-bold tracking-tight mb-2">Updates</h3>
             <ul className="font-franklin text-base space-y-2">
               <li><strong>[09/24]</strong> I will be at NeurIPS to present <a href="https://arxiv.org/abs/2409.10000">Edge Pruning</a> (spotlight)!</li>
-              <li><strong>[06/24]</strong> I will present my <a href="https://arxiv.org/abs/2403.03942">Heuristic.Core</a> paper at ACL (Oral, Main). See you there!</li>
+              <li><strong>[06/24]</strong> I will present my <a href="https://arxiv.org/abs/2403.03942">Heuristic Core</a> paper at ACL (Oral, Main). See you there!</li>
               <li><strong>[04/24]</strong> Gave an invited talk at Amazon AWS (Responsible AI team).</li>
               <li><strong>[04/24]</strong> Named a Hisashi and Masae Kobayashi '67 Fellow.</li>
               <li><strong>[08/23]</strong> Joined Princeton University!</li>
