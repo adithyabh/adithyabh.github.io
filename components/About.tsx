@@ -57,7 +57,7 @@ export default function About() {
           <section>
             <h2 className="font-oswald text-3xl font-bold tracking-tight mb-2">Welcome to my webpage</h2>
             <p className="font-franklin text-base leading-relaxed mb-4">
-              Hello! I am Adithya Bhaskar, a second-year Ph.D. student at Princeton University, advised by <a href="https://www.cs.princeton.edu/~danqic/">Prof. Danqi Chen</a>. Prior to joining Princeton, I completed my B.Tech. in Computer Science from IIT Bombay, where I completed my Bachelor's Thesis under the supervision of <a href="https://www.cse.iitb.ac.in/~sunita/">Prof. Sunita Sarawagi</a>. I am fortunate to have previously interned under <a href="https://www.cs.utexas.edu/~gdurrett/">Prof. Greg Durrett</a> at UT Austin, where I was first exposed to Large Language Models. Prior to that, I interned at Uppsala University under <a href="https://user.it.uu.se/~parosha/">Prof. Parosh Abdulla</a>.
+              Hello! I am Adithya Bhaskar, a third-year Ph.D. student at Princeton University, advised by <a href="https://www.cs.princeton.edu/~danqic/">Prof. Danqi Chen</a>. Prior to joining Princeton, I completed my B.Tech. in Computer Science from IIT Bombay, where I completed my Bachelor's Thesis under the supervision of <a href="https://www.cse.iitb.ac.in/~sunita/">Prof. Sunita Sarawagi</a>. I am fortunate to have previously interned under <a href="https://www.cs.utexas.edu/~gdurrett/">Prof. Greg Durrett</a> at UT Austin, where I was first exposed to Large Language Models. Prior to that, I interned at Uppsala University under <a href="https://user.it.uu.se/~parosha/">Prof. Parosh Abdulla</a>.
             </p>
           </section>
 

@@ -20,7 +20,7 @@ export default function Navigation() {
       <div className="max-w-6xl mx-auto px-6 py-6">
         <div className="text-center border-b-2 border-foreground pb-4 mb-4">
           <div className="font-oswald text-xs tracking-widest text-muted-foreground mb-2">
-            ACADEMIC CHRONICLE • EST. 2022 • VOL. 4 NO. 7
+            ACADEMIC CHRONICLE • EST. 2022 • VOL. 4 NO. 9
           </div>
           <h1 className="font-oswald text-5xl md:text-6xl font-bold tracking-tight text-foreground">
             ADITHYA BHASKAR
