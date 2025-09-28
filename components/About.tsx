@@ -33,7 +33,7 @@ export default function About() {
             <div className="text-center">
               <div className="font-oswald text-lg font-bold">Adithya Bhaskar</div>
               <div className="font-franklin text-xs text-muted-foreground">
-                Second year PhD student at Princeton University
+                Third-year PhD candidate at Princeton University
               </div>
             </div>
             <div className="mt-4 space-y-2 font-franklin text-sm">
