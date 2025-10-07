@@ -96,6 +96,10 @@ export default function CV() {
               </div>
               <div className="p-6 space-y-3 font-franklin text-sm">
                 <div>
+                  <span className="font-bold">2025</span> Language Models That Think, Chat Better, <span className="italic">arXiv preprint, arXiv:2509.20357</span><br/>
+                  <span className="italic"><span className="font-bold">Adithya Bhaskar*</span>, Xi Ye*, and Danqi Chen</span>
+                </div>
+                <div>
                   <span className="font-bold">2025</span> Cache Me If You Can: How Many KVs Do You Need for Effective Long-Context LMs?, <span className="italic">arXiv preprint, arXiv:2506.17121</span><br/>
                   <span className="italic"><span className="font-bold">Adithya Bhaskar*</span>, Alexander Wettig*, Tianyu Gao, Yihe Dong, and Danqi Chen</span>
                 </div>
