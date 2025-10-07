@@ -128,6 +128,21 @@ export default function Publications() {
               </div>
               <div className="p-6 space-y-6">
               
+              {/* 2025 - Language Models That Think */}
+              <div className="border-b border-muted pb-4">
+                <h3 className="font-franklin text-lg font-bold mb-2">Language Models That Think, Chat Better</h3>
+                <div className="font-franklin text-sm text-muted-foreground mb-1">
+                  <span className="font-bold">Adithya Bhaskar*</span>, Xi Ye*, and Danqi Chen
+                </div>
+                <div className="font-franklin text-sm font-bold mb-2">arXiv preprint, arXiv:2509.20357</div>
+                <div className="font-franklin text-sm mb-2">
+                  <a href="https://arxiv.org/abs/2509.20357" className="text-accent hover:text-accent/80 underline">[paper]</a> <a href="https://github.com/princeton-pli/RLMT" className="text-accent hover:text-accent/80 underline">[code]</a>
+                </div>
+                <div className="font-franklin text-sm italic">
+                  We train language models that think before responding, and they outperform GPT-4o and rival Claude-3.7-Sonnet (thinking) on chat and creative writing benchmarks.
+                </div>
+              </div>
+
               {/* 2025 - Cache Me If You Can */}
               <div className="border-b border-muted pb-4">
                 <h3 className="font-franklin text-lg font-bold mb-2">Cache Me If You Can: How Many KVs Do You Need for Effective Long-Context LMs?</h3>
