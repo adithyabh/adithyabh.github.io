@@ -158,6 +158,21 @@ export default function Publications() {
                 </div>
               </div>
 
+              {/* 2025 - Extracting Rule-based Descriptions of Attention Features in Transformers */}
+              <div className="border-b border-muted pb-4">
+                <h3 className="font-franklin text-lg font-bold mb-2">Extracting Rule-based Descriptions of Attention Features in Transformers</h3>
+                <div className="font-franklin text-sm text-muted-foreground mb-1">
+                  Dan Friedman, <span className="font-bold">Adithya Bhaskar</span>, Alexander Wettig, and Danqi Chen
+                </div>
+                <div className="font-franklin text-sm font-bold mb-2">arXiv preprint, arXiv:2510.18148</div>
+                <div className="font-franklin text-sm mb-2">
+                  <a href="https://arxiv.org/abs/2510.18148" className="text-accent hover:text-accent/80 underline">[paper]</a> <a href="https://github.com/princeton-nlp/AttentionRules" className="text-accent hover:text-accent/80 underline">[code]</a>
+                </div>
+                <div className="font-franklin text-sm italic">
+                  SAEs features are tricky and labor-intensive to interpret. We instead decompose them into a list of formal rules.
+                </div>
+              </div>
+
               {/* 2024 - Continual Memorization */}
               <div className="border-b border-muted pb-4">
                 <h3 className="font-franklin text-lg font-bold mb-2">Continual Memorization of Factoids in Language Models</h3>

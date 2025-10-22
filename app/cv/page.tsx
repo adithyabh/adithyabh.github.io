@@ -104,6 +104,10 @@ export default function CV() {
                   <span className="italic"><span className="font-bold">Adithya Bhaskar*</span>, Alexander Wettig*, Tianyu Gao, Yihe Dong, and Danqi Chen</span>
                 </div>
                 <div>
+                  <span className="font-bold">2025</span> Extracting Rule-based Descriptions of Attention Features in Transformers, <span className="italic">arXiv preprint, arXiv:2510.18148</span><br/>
+                  <span className="italic">Dan Friedman, <span className="font-bold">Adithya Bhaskar</span>, Alexander Wettig, and Danqi Chen</span>
+                </div>
+                <div>
                   <span className="font-bold">2024</span> Continual Memorization of Factoids in Language Models, <span className="italic">arXiv preprint, arXiv:2411.01715</span><br/>
                   <span className="italic">Howard Chen, Jiayi Geng, <span className="font-bold">Adithya Bhaskar</span>, Dan Friedman, and Danqi Chen</span>
                 </div>
