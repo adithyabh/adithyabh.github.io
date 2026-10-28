@@ -33,7 +33,7 @@ export default function About() {
             <div className="text-center">
               <div className="font-oswald text-lg font-bold">Adithya Bhaskar</div>
               <div className="font-franklin text-xs text-muted-foreground">
-                Third-year PhD candidate at Princeton University
+                Fourth-year PhD candidate at Princeton University
               </div>
             </div>
             <div className="mt-4 space-y-2 font-franklin text-sm">
@@ -57,7 +57,7 @@ export default function About() {
           <section>
             <h2 className="font-oswald text-3xl font-bold tracking-tight mb-2">Welcome to my webpage</h2>
             <p className="font-franklin text-base leading-relaxed mb-4">
-              Hello! I am Adithya Bhaskar, a third-year Ph.D. student at Princeton University, advised by <a href="https://www.cs.princeton.edu/~danqic/">Prof. Danqi Chen</a>. Prior to joining Princeton, I completed my B.Tech. in Computer Science from IIT Bombay, where I completed my Bachelor's Thesis under the supervision of <a href="https://www.cse.iitb.ac.in/~sunita/">Prof. Sunita Sarawagi</a>. I am fortunate to have previously interned under <a href="https://www.cs.utexas.edu/~gdurrett/">Prof. Greg Durrett</a> at UT Austin, where I was first exposed to Large Language Models. Prior to that, I interned at Uppsala University under <a href="https://user.it.uu.se/~parosha/">Prof. Parosh Abdulla</a>.
+              Hello! I am Adithya Bhaskar, a fourth-year Ph.D. student at Princeton University, advised by <a href="https://www.cs.princeton.edu/~danqic/">Prof. Danqi Chen</a>. Prior to joining Princeton, I completed my B.Tech. in Computer Science from IIT Bombay, where I completed my Bachelor's Thesis under the supervision of <a href="https://www.cse.iitb.ac.in/~sunita/">Prof. Sunita Sarawagi</a>. I am fortunate to have previously interned under <a href="https://www.cs.utexas.edu/~gdurrett/">Prof. Greg Durrett</a> at UT Austin, where I was first exposed to Large Language Models. Prior to that, I interned at Uppsala University under <a href="https://user.it.uu.se/~parosha/">Prof. Parosh Abdulla</a>.
             </p>
           </section>
 
@@ -65,14 +65,14 @@ export default function About() {
           <section>
             <h3 className="font-oswald text-2xl font-bold tracking-tight mb-2">Research Interests</h3>
             <p className="font-franklin text-base leading-relaxed mb-4">
-              I am curious about the inner workings of language models. We can throw together a nice looking loss function, a reasonable training loop, some compute and lots of data - and voila! A model starts generating near-fluent text. But, <em>what</em> does it learn? Does it reverse-engineer rules of grammar? At the start of my PhD, I wrote my interests down as:
+              My work is best described as AI for science with a flavor of interpretability. In particular, I am interested in language itself as an interpretable artifact to be extracted from domain-specific models that may not speak language. Some of my work touches on technical questions such as how models are best trained to work in scientific domains (roughly, post-training). I also remain interested in interpretability more generally. We can throw together a nice-looking loss function, a reasonable training loop, some compute and lots of data - and voila! A model starts generating near-fluent text. But, <em>what</em> does it learn? Does it reverse-engineer rules of grammar? At the start of my PhD, I wrote my interests down as:
             </p>
             <ul className="list-disc pl-6 font-franklin text-base mb-4">
               <li>How can we best port human knowledge of Natural Language (e.g. linguistic structure, disambiguation of context, and so on) to a Language Model by modifying the model, training process and/or the data? More practically, can this lead us to better parameter and data efficiency?</li>
               <li>Humans find it hard to learn languages without any visual cues or explanations, but it is easy for LMs to do so. Do they know something we don't? Can we reverse engineer more efficient ways to think about Language from them?</li>
             </ul>
             <p className="font-franklin text-base leading-relaxed">
-              Not all of my interests are this abstract: how do we best train a language model? What data mixes? What optimizer? What architecture? Does &lt;insert method&gt; work for &lt;insert desired outcome&gt;? I also find myself thinking about scaling laws, post-training and the social impacts of language models these days.
+              Some of these points are now obsolete, but I keep them around as a fond keepsake of my early ambitions.
             </p>
           </section>
 
@@ -80,7 +80,10 @@ export default function About() {
           <section>
             <h3 className="font-oswald text-2xl font-bold tracking-tight mb-2">Updates</h3>
             <ul className="font-franklin text-base space-y-2">
-              <li><strong>[09/24]</strong> I will be at NeurIPS to present <a href="https://arxiv.org/abs/2409.10000">Edge Pruning</a> (spotlight)!</li>
+            <li><strong>[10/26]</strong> Check out our paper on making language models play/explain chess! <a href="https://arxiv.org/abs/2610.03695">Paper</a></li>
+              <li><strong>[09/26]</strong> I will present the <a href="https://arxiv.org/abs/2509.20357">Language Models That Think, Chat Better</a> paper at COLM 2026 (San Francisco)!</li>
+              <li><strong>[09/25]</strong> I will attend NeurIPS 2025 in San Diego!</li>
+              <li><strong>[09/24]</strong> I will be at NeurIPS to present <a href="https://arxiv.org/abs/2406.16778">Edge Pruning</a> (spotlight)!</li>
               <li><strong>[06/24]</strong> I will present my <a href="https://arxiv.org/abs/2403.03942">Heuristic Core</a> paper at ACL (Oral, Main). See you there!</li>
               <li><strong>[04/24]</strong> Gave an invited talk at Amazon AWS (Responsible AI team).</li>
               <li><strong>[04/24]</strong> Named a Hisashi and Masae Kobayashi '67 Fellow.</li>

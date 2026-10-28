@@ -26,11 +26,41 @@ export default function Publications() {
               </div>
               <div className="p-6 space-y-6">
               
-              {/* 2025 */}
+              {/* 2026 - Language Models That Think */}
+              <div className="border-b border-muted pb-4">
+                <h3 className="font-franklin text-lg font-bold mb-2">Language Models That Think, Chat Better</h3>
+                <div className="font-franklin text-sm text-muted-foreground mb-1">
+                  <span className="font-bold">Adithya Bhaskar*</span>, Xi Ye*, and Danqi Chen
+                </div>
+                <div className="font-franklin text-sm font-bold mb-2">COLM 2026</div>
+                <div className="font-franklin text-sm mb-2">
+                  <a href="https://arxiv.org/abs/2509.20357" className="text-accent hover:text-accent/80 underline">[paper]</a> <a href="https://github.com/princeton-pli/RLMT" className="text-accent hover:text-accent/80 underline">[code]</a>
+                </div>
+                <div className="font-franklin text-sm italic">
+                  We train language models that think before responding, and they outperform GPT-4o and rival Claude-3.7-Sonnet (thinking) on chat and creative writing benchmarks.
+                </div>
+              </div>
+
+              {/* 2026 - Continual Memorization */}
+              <div className="border-b border-muted pb-4">
+                <h3 className="font-franklin text-lg font-bold mb-2">Continual Memorization of Factoids in Language Models</h3>
+                <div className="font-franklin text-sm text-muted-foreground mb-1">
+                  Howard Chen, Jiayi Geng, <span className="font-bold">Adithya Bhaskar</span>, Dan Friedman, and Danqi Chen
+                </div>
+                <div className="font-franklin text-sm font-bold mb-2">TMLR, March 2026</div>
+                <div className="font-franklin text-sm mb-2">
+                  <a href="https://arxiv.org/abs/2411.07175" className="text-accent hover:text-accent/80 underline">[paper]</a> <a href="https://github.com/princeton-nlp/continual-factoid-memorization" className="text-accent hover:text-accent/80 underline">[code]</a>
+                </div>
+                <div className="font-franklin text-sm italic">
+                  Finetuning LMs on facts makes them forget older facts. Surprisingly, mixing in generic data when finetuning prevents forgetting.
+                </div>
+              </div>
+
+              {/* 2025 - Unintentional Unalignment */}
               <div className="border-b border-muted pb-4">
                 <h3 className="font-franklin text-lg font-bold mb-2">Unintentional Unalignment: Likelihood Displacement in Direct Preference Optimization</h3>
                 <div className="font-franklin text-sm text-muted-foreground mb-1">
-                  Noman Razin, Sadhika Malladi, <span className="font-bold">Adithya Bhaskar</span>, Danqi Chen, Sanjeev Arora, and Boris Hanin
+                  Noam Razin, Sadhika Malladi, <span className="font-bold">Adithya Bhaskar</span>, Danqi Chen, Sanjeev Arora, and Boris Hanin
                 </div>
                 <div className="font-franklin text-sm font-bold mb-2">ICLR 2025</div>
                 <div className="font-franklin text-sm mb-2">
@@ -128,18 +158,18 @@ export default function Publications() {
               </div>
               <div className="p-6 space-y-6">
               
-              {/* 2025 - Language Models That Think */}
+              {/* 2026 - Chess */}
               <div className="border-b border-muted pb-4">
-                <h3 className="font-franklin text-lg font-bold mb-2">Language Models That Think, Chat Better</h3>
+                <h3 className="font-franklin text-lg font-bold mb-2">Language Models that Play Chess and Explain Their Moves</h3>
                 <div className="font-franklin text-sm text-muted-foreground mb-1">
-                  <span className="font-bold">Adithya Bhaskar*</span>, Xi Ye*, and Danqi Chen
+                  <span className="font-bold">Adithya Bhaskar*</span>, Jeffrey Cheng*, and Danqi Chen
                 </div>
-                <div className="font-franklin text-sm font-bold mb-2">arXiv preprint, arXiv:2509.20357</div>
+                <div className="font-franklin text-sm font-bold mb-2">arXiv preprint, arXiv:2610.03695</div>
                 <div className="font-franklin text-sm mb-2">
-                  <a href="https://arxiv.org/abs/2509.20357" className="text-accent hover:text-accent/80 underline">[paper]</a> <a href="https://github.com/princeton-pli/RLMT" className="text-accent hover:text-accent/80 underline">[code]</a>
+                  <a href="https://arxiv.org/abs/2610.03695" className="text-accent hover:text-accent/80 underline">[paper]</a>
                 </div>
                 <div className="font-franklin text-sm italic">
-                  We train language models that think before responding, and they outperform GPT-4o and rival Claude-3.7-Sonnet (thinking) on chat and creative writing benchmarks.
+                  We train language models that play chess and explain the reasoning behind their moves.
                 </div>
               </div>
 
@@ -170,21 +200,6 @@ export default function Publications() {
                 </div>
                 <div className="font-franklin text-sm italic">
                   SAEs features are tricky and labor-intensive to interpret. We instead decompose them into a list of formal rules.
-                </div>
-              </div>
-
-              {/* 2024 - Continual Memorization */}
-              <div className="border-b border-muted pb-4">
-                <h3 className="font-franklin text-lg font-bold mb-2">Continual Memorization of Factoids in Language Models</h3>
-                <div className="font-franklin text-sm text-muted-foreground mb-1">
-                  Howard Chen, Jiayi Geng, <span className="font-bold">Adithya Bhaskar</span>, Dan Friedman, and Danqi Chen
-                </div>
-                <div className="font-franklin text-sm font-bold mb-2">arXiv preprint, arXiv:2411.01715</div>
-                <div className="font-franklin text-sm mb-2">
-                  <a href="https://arxiv.org/abs/2411.07175" className="text-accent hover:text-accent/80 underline">[paper]</a> <a href="https://github.com/princeton-nlp/continual-factoid-memorization" className="text-accent hover:text-accent/80 underline">[code]</a>
-                </div>
-                <div className="font-franklin text-sm italic">
-                  Finetuning LMs on facts makes them forget older facts. Surprisingly, mixing in generic data when finetuning prevents forgetting.
                 </div>
               </div>
 

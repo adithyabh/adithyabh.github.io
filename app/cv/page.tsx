@@ -38,7 +38,8 @@ export default function CV() {
                 <div>
                   <span className="font-bold">2023-Ongoing</span> <br/>
                   Ph.D. in Computer Science, Princeton University, USA <br/>
-                  <span className="italic">Advised by Prof. Danqi Chen</span> (Specialization: Natural Language Processing)
+                  <span className="italic">Advised by Prof. Danqi Chen</span> (Specialization: Natural Language Processing) <br/>
+                  Research interests: AI for science, LM post-training, Interpretability
                 </div>
                 <div>
                   <span className="font-bold">2019-23</span> <br/>
@@ -63,8 +64,16 @@ export default function CV() {
               </div>
               <div className="p-6 space-y-3 font-franklin text-sm">
                 <div>
+                  <span className="font-bold">2026</span> Language Models That Think, Chat Better, <span className="font-bold">COLM 2026</span><br/>
+                  <span className="italic"><span className="font-bold">Adithya Bhaskar*</span>, Xi Ye*, and Danqi Chen</span>
+                </div>
+                <div>
+                  <span className="font-bold">2026</span> Continual Memorization of Factoids in Language Models, <span className="font-bold">TMLR, March 2026</span><br/>
+                  <span className="italic">Howard Chen, Jiayi Geng, <span className="font-bold">Adithya Bhaskar</span>, Dan Friedman, and Danqi Chen</span>
+                </div>
+                <div>
                   <span className="font-bold">2025</span> Unintentional Unalignment: Likelihood Displacement in Direct Preference Optimization, <span className="font-bold">ICLR 2025</span><br/>
-                  <span className="italic">Noman Razin, Sadhika Malladi, <span className="font-bold">Adithya Bhaskar</span>, Danqi Chen, Sanjeev Arora, and Boris Hanin</span>
+                  <span className="italic">Noam Razin, Sadhika Malladi, <span className="font-bold">Adithya Bhaskar</span>, Danqi Chen, Sanjeev Arora, and Boris Hanin</span>
                 </div>
                 <div>
                   <span className="font-bold">2024</span> Finding Transformer Circuits With Edge Pruning, <span className="font-bold">NeurIPS 2024 (Spotlight)</span><br/>
@@ -96,8 +105,8 @@ export default function CV() {
               </div>
               <div className="p-6 space-y-3 font-franklin text-sm">
                 <div>
-                  <span className="font-bold">2025</span> Language Models That Think, Chat Better, <span className="italic">arXiv preprint, arXiv:2509.20357</span><br/>
-                  <span className="italic"><span className="font-bold">Adithya Bhaskar*</span>, Xi Ye*, and Danqi Chen</span>
+                  <span className="font-bold">2026</span> Language Models that Play Chess and Explain Their Moves, <span className="italic">arXiv preprint, arXiv:2610.03695</span><br/>
+                  <span className="italic"><span className="font-bold">Adithya Bhaskar*</span>, Jeffrey Cheng*, and Danqi Chen</span>
                 </div>
                 <div>
                   <span className="font-bold">2025</span> Cache Me If You Can: How Many KVs Do You Need for Effective Long-Context LMs?, <span className="italic">arXiv preprint, arXiv:2506.17121</span><br/>
@@ -106,10 +115,6 @@ export default function CV() {
                 <div>
                   <span className="font-bold">2025</span> Extracting Rule-based Descriptions of Attention Features in Transformers, <span className="italic">arXiv preprint, arXiv:2510.18148</span><br/>
                   <span className="italic">Dan Friedman, <span className="font-bold">Adithya Bhaskar</span>, Alexander Wettig, and Danqi Chen</span>
-                </div>
-                <div>
-                  <span className="font-bold">2024</span> Continual Memorization of Factoids in Language Models, <span className="italic">arXiv preprint, arXiv:2411.01715</span><br/>
-                  <span className="italic">Howard Chen, Jiayi Geng, <span className="font-bold">Adithya Bhaskar</span>, Dan Friedman, and Danqi Chen</span>
                 </div>
                 <div>
                   <span className="font-bold">2024</span> Improving Language Understanding from Screenshots, <span className="italic">arXiv preprint, arXiv:2402.14073</span><br/>
@@ -150,7 +155,7 @@ export default function CV() {
                   Advisor: Prof. Greg Durrett <br/>
                   <ul className="list-disc pl-6">
                     <li>Developed metrics to measure <span className="font-bold">factuality, faithfulness and specificity</span> for multi-document summarization.</li>
-                    <li>Benchmarked <span className="font-bold">GPT-3.5</span> and showed hierarchical summarization of large text performs best on faithfulness and specificity.</li>
+                    <li>Benchmarked <span className="font-bold">GPT-3.5</span> and showed simple hierarchical summarization of large text performs poorly on faithfulness and specificity.</li>
                     <li>Investigated <span className="font-bold">pre-clustering and pre-summarization</span> methods for improved correctness, faithfulness, and specificity.</li>
                   </ul>
                 </div>
@@ -204,6 +209,8 @@ export default function CV() {
                 <FaHandsHelping /> SERVICE
               </div>
               <div className="p-6 space-y-3 font-franklin text-sm">
+                <div><span className="font-bold">2026</span> ICLR 2026, Reviewer</div>
+                <div><span className="font-bold">2026</span> COLM 2026, Reviewer</div>
                 <div><span className="font-bold">2025</span> NeurIPS 2025, Reviewer</div>
                 <div><span className="font-bold">2025</span> ICML 2025 MOSS Workshop, Reviewer</div>
                 <div><span className="font-bold">2024</span> NeurIPS 2024 ATTRIB Workshop, Reviewer</div>
