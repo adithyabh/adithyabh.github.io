@@ -171,9 +171,9 @@ window.QUESTIONS = [
   {
     id: 'meta-llm-2030',
     type: 'meta',
-    title: 'Last one, about this room: in 2030, will you still be working on LLMs?',
+    title: 'Last one, about this room: in 2035, will you still be working on LLMs?',
     context: 'Answer for yourself, then guess how the room answered.',
-    ask: 'In 2030, will you still be working on LLMs?',
+    ask: 'In 2035, will you still be working on LLMs?',
     predict: 'What % of this room will say Yes?',
     footnote: '“Surprisingly popular” = the answer that is more common than the room predicted (Prelec, Seung & McCoy, Nature 2017). False consensus = we tend to think others answer like us.',
   },
